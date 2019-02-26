@@ -1,6 +1,7 @@
 # Unit-2---Assignment-1-Output-and-Control-Codes-Special-Characters-
-Unit 2 - Assignment #1 Output and Control Codes (Special Characters)
-public class Assignment1
+Unit 2 - Assignment #1 Output and Control Codes (Special Characters)\
+
+public class Task1
  {
   public static void main (String[] args)
   {
@@ -11,7 +12,7 @@ public class Assignment1
     System.out.println("What sport do you like? \nI like soccer/football");
 
     //Task 1 part c
-    System.out.println("My \n   name \n       is \n           Tab");
-      
+    System.out.println("My \n\t name \n\t\t is \n\t\t\t Tab");
+    
   }//end main
 }//end class
